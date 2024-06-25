@@ -1,6 +1,6 @@
 # Hello, I'm Rahul Shelke - Data Scientist 👨‍💻
 
-Welcome to my GitHub profile! I'm Rahul Shelke, a data scientist with two years of professional experience in the field of data science. I've had the opportunity to work on various projects during my career, including four internships and a full-time role as Associate Data Scientist at Altimetrik, Bangalore, India, where I worked until February 2022.
+Welcome to my GitHub profile! I'm passionate about leveraging data to drive insights and solutions. With a strong foundation in data science, I specialize in machine learning, statistical modeling, and data analysis. My journey involves exploring complex datasets, creating predictive models, and visualizing trends to unlock actionable intelligence.
 
 ## 🔭 What I Do
 
@@ -16,12 +16,6 @@ Continuously improving my skills in:
 - Advanced machine learning algorithms such as ensemble methods and deep learning architectures.
 - Big data technologies including Apache Spark for scalable data processing.
 - Enhancing my knowledge of cloud platforms like AWS for deploying machine learning models.
-
-## 💼 Work Experience
-
-- **Associate Data Scientist** at **Altimetrik**, Bangalore, India *(2022 - 2022)*
-  - Led data analysis and modeling projects, contributing to business insights and decision-making processes.
-  - Collaborated with cross-functional teams to implement machine learning solutions for real-world applications.
 
 ## 📫 Get in Touch
 
