@@ -36,6 +36,16 @@ Continuously improving my skills in:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+## 📈 Competitive Programming Profiles
+
+- **LeetCode**: [Link to your LeetCode profile]  
+  - **Solved Problems**: [Number of problems solved]
+  - **Rank**: [Your LeetCode rank or percentile]
+
+- **HackerRank**: [Link to your HackerRank profile]  
+  - **Solved Problems**: [Number of problems solved]
+  - **Badges**: [Any notable badges or achievements]
+
 ## 📝 Latest Blog Posts
 
 - [Blog Post 1]: [Link to your blog post]
