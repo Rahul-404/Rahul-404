@@ -26,25 +26,27 @@ Continuously improving my skills in:
 
 - [List any relevant certifications or courses completed]
 
+| **Skills**               | **Tool Certification**                                  | **Related Word** |
+|--------------------------|--------------------------------------------------------|--------------------|
+| Data Collection          | [Google Analytics](https://example.com/ga-cert) 2x, [Scrapy](https://example.com/scrapy-cert) 1x |
+| Data Cleaning            | [Pandas](https://example.com/pandas-cert) 3x, [OpenRefine](https://example.com/openrefine-cert) 2x |
+| Data Exploration         | [Tableau](https://example.com/tableau-cert) 2x, [Matplotlib](https://example.com/matplotlib-cert) 1x |
+| Feature Engineering      | [Featuretools](https://example.com/featuretools-cert) 1x, [Dask](https://example.com/dask-cert) 2x |
+| Model Building           | [TensorFlow](https://example.com/tensorflow-cert) 4x, [Scikit-Learn](https://example.com/scikit-learn-cert) 3x |
+| Model Evaluation         | [MLflow](https://example.com/mlflow-cert) 2x, [Yellowbrick](https://example.com/yellowbrick-cert) 1x |
+| Deployment               | [Docker](https://example.com/docker-cert) 2x, [AWS SageMaker](https://example.com/aws-sagemaker-cert) 3x |
+
+
 ## 🚀 Projects
 
 - [Project 1 Name]: [Brief description and link (if public)]
 - [Project 2 Name]: [Brief description and link (if public)]
 - [Project 3 Name]: [Brief description and link (if public)]
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&show_icons=true&theme=radical)
-
 ## 📈 Competitive Programming Profiles
 
-- **LeetCode**: [Link to your LeetCode profile]  
-  - **Solved Problems**: [Number of problems solved]
-  - **Rank**: [Your LeetCode rank or percentile]
-
-- **HackerRank**: [Link to your HackerRank profile]  
-  - **Solved Problems**: [Number of problems solved]
-  - **Badges**: [Any notable badges or achievements]
+- **LeetCode**: [[LeetCode profile](https://leetcode.com/u/rahulshelke98/)]
+- **HackerRank**: [[HackerRank profile](https://www.hackerrank.com/profile/rahulshelke981)]  
 
 ## 📝 Latest Blog Posts
 
@@ -55,24 +57,6 @@ Continuously improving my skills in:
 
 - Bachelor's in Computer Engineering from University of Mumbai
 
-## 🛠️ Skill Set
+## 📊 GitHub Stats
 
-### Data Collection & Cleaning
-- **SQL**: Proficient in querying and managing databases. [here is my Work]()
-- **Python (Pandas)**: Expertise in data manipulation and cleaning using Pandas.[here is my Work]()
-- **Web Scraping**: Experienced in extracting data from web sources using BeautifulSoup and Scrapy.[here is my Work]()
-
-### Data Analysis & Visualization
-- **Matplotlib** and **Seaborn**: Skilled in creating insightful visualizations.[here is my Work]()
-- **Statistical Analysis**: Strong foundation in statistical methods and hypothesis testing.[here is my Work]()
-- **Exploratory Data Analysis (EDA)**: Proficient in uncovering patterns and relationships in data.[here is my Work]()
-
-### Machine Learning & Modeling
-- **Scikit-learn**: Advanced knowledge in building and evaluating machine learning models. [here is my Work]()
-- **TensorFlow** and **PyTorch**: Familiar with deep learning frameworks for complex modeling tasks. [here is my Work]()
-- **Feature Engineering**: Experienced in creating meaningful features from raw data. [here is my Work]()
-
-### Deployment & Communication
-- **Flask**: Proficient in deploying machine learning models as APIs. [here is my Work]()
-- **Tableau** and **Power BI**: Skilled in creating interactive dashboards and reports. [here is my Work]()
-- **Technical Writing**: Experienced in presenting complex data insights effectively.[here is my Work]()
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&show_icons=true&theme=radical)
