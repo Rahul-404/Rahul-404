@@ -46,7 +46,7 @@ Continuously improving my skills in:
 ## 📈 Competitive Programming Profiles
 
 - **LeetCode**: [[LeetCode profile](https://leetcode.com/u/rahulshelke98/)]
-- **HackerRank**: [[HackerRank profile](https://www.hackerrank.com/profile/rahulshelke981)]  
+<!-- **HackerRank**: [[HackerRank profile](https://www.hackerrank.com/profile/rahulshelke981)]  -->
 
 ## 📝 Latest Blog Posts
 
