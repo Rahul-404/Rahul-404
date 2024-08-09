@@ -26,7 +26,7 @@ Continuously improving my skills in:
 
 - [List any relevant certifications or courses completed]
 
-| **Skills**               | **Tool Certification**                                  | **Related Word** |
+| **Skills**               | **Tool Certification**                                  | **Related Work** |
 |--------------------------|--------------------------------------------------------|--------------------|
 | Data Collection          | [Google Analytics](https://example.com/ga-cert) 2x, [Scrapy](https://example.com/scrapy-cert) 1x |
 | Data Cleaning            | [Pandas](https://example.com/pandas-cert) 3x, [OpenRefine](https://example.com/openrefine-cert) 2x |
