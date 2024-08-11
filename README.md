@@ -59,4 +59,7 @@ Continuously improving my skills in:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&show_icons=true&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&show_icons=true&theme=radical) -->
+![Rahul-404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-404&theme=flag-india&hide_border=false)
+![Rahul-404's Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&theme=flag-india&show_icons=true&hide_border=false&count_private=false)
+
