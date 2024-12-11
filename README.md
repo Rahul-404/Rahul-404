@@ -24,34 +24,37 @@ Continuously improving my skills in:
 
 ## 📚 Certifications
 
-- [List any relevant certifications or courses completed]
+- [Full Stack Data Science Masters](https://learn.ineuron.ai/certificate/7b414055-0b87-44a3-b8ee-bfc985095cbc)
 
-| **Skills**               | **Tool Certification**                                  | **Related Work** |
+<!--| **Skills**               | **Tool Certification**                                  | **Related Work** |
 |--------------------------|--------------------------------------------------------|--------------------|
 | Data Collection          | [Google Analytics](https://example.com/ga-cert) 2x, [Scrapy](https://example.com/scrapy-cert) 1x |
-| Data Cleaning            | [Pandas](https://example.com/pandas-cert) 3x, [OpenRefine](https://example.com/openrefine-cert) 2x |
+| Data Cleaning            | [Pandas](https://example.com/pandas-cert), [Numpy](https://example.com/openrefine-cert), |
 | Data Exploration         | [Tableau](https://example.com/tableau-cert) 2x, [Matplotlib](https://example.com/matplotlib-cert) 1x |
 | Feature Engineering      | [Featuretools](https://example.com/featuretools-cert) 1x, [Dask](https://example.com/dask-cert) 2x |
 | Model Building           | [TensorFlow](https://example.com/tensorflow-cert) 4x, [Scikit-Learn](https://example.com/scikit-learn-cert) 3x |
 | Model Evaluation         | [MLflow](https://example.com/mlflow-cert) 2x, [Yellowbrick](https://example.com/yellowbrick-cert) 1x |
-| Deployment               | [Docker](https://example.com/docker-cert) 2x, [AWS SageMaker](https://example.com/aws-sagemaker-cert) 3x |
+| Deployment               | [Docker](https://example.com/docker-cert) 2x, [AWS SageMaker](https://example.com/aws-sagemaker-cert) 3x |-->
 
 
 ## 🚀 Projects
 
-- [Project 1 Name]: [Brief description and link (if public)]
-- [Project 2 Name]: [Brief description and link (if public)]
-- [Project 3 Name]: [Brief description and link (if public)]
+<!-- [End-to-End-D](https://github.com/Rahul-404/mlproject.git): [Brief description and link (if public)]-->
+- [End-to-End-Chicken-Disease-Classification](https://github.com/Rahul-404/End-to-End-Chicken-Disease-Classification.git):
+   - Developed a web app to classify chicken diseases from fecal images using VGG16. Built end-to-end pipeline: data preprocessing, model fine-tuning (92% accuracy), and deployed on AWS- EC2/ECR for real-time image upload and classification.
+- [End-to-End-Text-Summarizer](https://github.com/Rahul-404/End-to-end-Text-Summarizer.git):
+   - A custom fine-tuned text summarization model deployed on AWS-ECR/EC2. Users can input text, and the app generates
+concise summaries using a Hugging Face model, optimized on domain-specific data for better accuracy 
 
 ## 📈 Competitive Programming Profiles
 
 - **LeetCode**: [[LeetCode profile](https://leetcode.com/u/rahulshelke98/)]
 <!-- **HackerRank**: [[HackerRank profile](https://www.hackerrank.com/profile/rahulshelke981)]  -->
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 
-- [Blog Post 1]: [Link to your blog post]
-- [Blog Post 2]: [Link to your blog post]
+<!-- [Blog Post 1]: [Link to your blog post] -->
+<!-- [Blog Post 2]: [Link to your blog post] -->
 
 ## 🎓 Education
 
