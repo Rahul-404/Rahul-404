@@ -1,5 +1,7 @@
 # Hello, I'm Rahul Shelke - Data Scientist 👨‍💻
 
+![](https://komarev.com/ghpvc/?username=Rahul-404&color=blue&style=for-the-badge&abbreviated=true)
+
 Welcome to my GitHub profile! I'm passionate about leveraging data to drive insights and solutions. With a strong foundation in data science, I specialize in machine learning, statistical modeling, and data analysis. My journey involves exploring complex datasets, creating predictive models, and visualizing trends to unlock actionable intelligence.
 
 ## 🔭 What I Do
